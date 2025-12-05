@@ -183,13 +183,13 @@ Which would you prefer next?
 ### HDFS
 
 ```powershell
-# Lister les fichiers HDFS
+# List HDFS files
 docker exec namenode hdfs dfs -ls /netplag/data/corpus_initial
 
-# Voir l'espace utilisé
+# Show used space
 docker exec namenode hdfs dfs -du -h /netplag
 
-# Copier un fichier depuis HDFS
+# Copy a file from HDFS
 docker exec namenode hdfs dfs -get /netplag/storage/reports/plagiarism_cases.json
 ```
 
@@ -208,22 +208,22 @@ curl http://localhost:9200/plagiarism_reports/_search?q=similarity_score:>0.8
 
 ---
 
-## 🎯 Cas d'Usage
+## 🎯 Use Cases
 
-### 1. Veille Académique Continue
-- Surveillance automatique des nouvelles publications
-- Détection de plagiat entre articles soumis
-- Alerte en temps réel sur similarités suspectes
+### 1. Continuous Academic Monitoring
+- Automatic surveillance of new publications
+- Plagiarism detection across submitted articles
+- Real-time alerts on suspicious similarities
 
-### 2. Validation de Thèses/Mémoires
-- Analyse batch de documents étudiants
-- Comparaison avec corpus bibliographique
-- Génération de rapports détaillés
+### 2. Thesis and Dissertation Validation
+- Batch analysis of student documents
+- Comparison with bibliographic corpus
+- Generation of detailed reports
 
-### 3. Conformité Éditoriale
-- Vérification avant publication
-- Détection de réutilisation non citée
-- Traçabilité des sources
+### 3. Editorial Compliance
+- Pre-publication checks
+- Detection of uncredited reuse
+- Source traceability
 
 ---
 
@@ -291,27 +291,25 @@ hashingTF = HashingTF(inputCol="words", outputCol="rawFeatures", numFeatures=500
 
 ## 🤝 Contribution & Publication
 
-**Publication Potentielle:**
+**Potential Publication:**
 > "NetPlag-Stream: A Real-Time Distributed Architecture for Academic Plagiarism Detection using Spark Streaming and Delta Lake"
 
-**Axes de Recherche:**
-- Architectures Big Data temps réel pour veille scientifique
-- Optimisation du calcul de similarité à grande échelle
-- Détection sémantique avec transformers (BERT)
-- Gestion incrémentale des modèles TF-IDF
+**Research Directions:**
+- Real-time Big Data architectures for scientific monitoring
+- Optimization of large-scale similarity computation
+- Semantic detection using transformers (BERT)
+- Incremental management of TF-IDF models
 
 ---
 
 
-## ✨ Auteurs
+## ✨ Authors
 
-Développé dans le cadre d'un projet Big Data sur la détection de plagiat en architecture distribuée.
+Developed as part of a Big Data project on plagiarism detection in distributed architecture.
 
 - Bellmir Yahya
 - Ismaili Ayman
 - Ait Abdou Ayman
-- Chegdati Chouaib 
-
----
+- Chegdati Chouaib
 
 
